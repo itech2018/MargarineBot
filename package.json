@@ -11,7 +11,6 @@
     "moment": "^2.19.3",
     "moment-duration-format": "^1.3.0",
     "ms": "^2.0.0",
-    "node-opus": "^0.2.7",
     "querystring": "^0.2.0",
     "request": "^2.85.0",
     "snekfetch": "^3.5.8",
